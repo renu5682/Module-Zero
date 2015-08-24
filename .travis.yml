@@ -1,2 +1,2 @@
 language: csharp
-solution: Abp.Zero.sln
+solution: Src/Abp.Zero.sln
